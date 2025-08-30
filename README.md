@@ -77,7 +77,7 @@ Inside the notebook:
 - Loads a pretrained DistilBERT base model
 - Tokenizes and processes the dataset
 - Fine-tunes the model on the PII detection dataset
--Saves the trained model artifacts in distilbert-pii/
+- Saves the trained model artifacts in `distilbert-pii/`
 
 ### 5. 📊 Evaluation Results
 The notebook includes:
